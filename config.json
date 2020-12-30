@@ -1,0 +1,21 @@
+{
+   "port": "13000",
+   "adminAccount": "admin@admin.com",
+   "db": {
+      "servername": "192.168.159.140",
+      "DATABASE": "yapi",
+      "port": "27017",
+      "user": "learn123",
+      "pass": "learn-m"
+   },
+   "mail": {
+      "enable": false,
+      "host": "smtp.163.com",
+      "port": 465,
+      "from": "***@163.com",
+      "auth": {
+         "user": "***@163.com",
+         "pass": "*****"
+      }
+   }
+}
